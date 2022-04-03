@@ -25,6 +25,7 @@ Log
 
 ### 4/2/2022
 OG: 1.064
+Yield: 5 gallons
 
 Future Ideas
 ------------
