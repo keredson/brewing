@@ -27,6 +27,7 @@ Log
 - OG: 1.064
 - Yield: 5 gallons
 - Pitched at 90°F (time constrained)
+- BIAG left a lot of [sediment](https://photos.app.goo.gl/tbKWbANu6yQa7uBR6).
 
 Future Ideas
 ------------
