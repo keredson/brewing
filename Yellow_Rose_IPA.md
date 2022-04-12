@@ -28,6 +28,7 @@ Log
 - Yield: 5 gallons
 - Pitched at 90°F (time constrained)
 - BIAG left a lot of [sediment](https://photos.app.goo.gl/tbKWbANu6yQa7uBR6).
+- Dry hopped (3oz): 4/12/2022
 
 Future Ideas
 ------------
