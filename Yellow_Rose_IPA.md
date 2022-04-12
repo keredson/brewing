@@ -1,6 +1,6 @@
 Yellow Rose IPA (Clone)
 ===================
-![image](https://user-images.githubusercontent.com/2049665/161409238-00784d49-9616-4688-adf3-4f1874358670.png)
+![image](images/Yellow_Rose_IPA.png)
 
 I really liked this grapefruity IPA called [Yellow Rose](https://www.lonepint.com/the-core-brews) back in TX.  (I can't get it up here in WA.)
 
