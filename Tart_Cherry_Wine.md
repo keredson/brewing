@@ -22,3 +22,5 @@ It's tart, but still tastes mildly sweet to me.  S.O. thought it too dry, so bac
 Definitely a dessert wine.  Tastes finished.
 
 Degassed and pasteurized @ 140°F.
+
+5/15/2022: Aging helped this a lot.  Will make again, prob. bigger batch.
