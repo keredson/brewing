@@ -13,3 +13,5 @@ Log
 
 ### 3/30/2022
 - OG: 1.075
+
+This did not turn out well.  Oddly sour and too much ginger.
