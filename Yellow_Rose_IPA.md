@@ -30,6 +30,16 @@ Log
 - BIAG left a lot of [sediment](https://photos.app.goo.gl/tbKWbANu6yQa7uBR6).
 - Dry hopped (3oz): 4/12/2022
 
+5/15/2022:
+
+- FG: 1.008
+- Bottled w/ 5oz dextrose
+
+My planned 3 day dry hop turned into a month.
+
+![image](images/PXL_20220515_172413601.MP.jpg) ![image](images/PXL_20220515_181223341.PORTRAIT.jpg)
+
+
 Future Ideas
 ------------
 From [here](https://beersmith.com/blog/2019/12/18/hop-utilization-in-the-whirlpool-for-beer-brewing/)  there's a bitterness table:
