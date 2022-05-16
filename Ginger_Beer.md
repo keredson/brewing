@@ -11,3 +11,9 @@ Recipe
 
 ### 4/12/2022
 - OG: 1.093
+
+Update: 5/15/2022
+- SG: 1.072
+- Added bottling sugar (1oz), so now SG 1.075.
+- Realized stuck, added 1 tsp. yeast nutrient (diammonium phosphate) and more yeast.
+- Tastes great.
