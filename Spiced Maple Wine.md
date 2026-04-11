@@ -9,6 +9,7 @@ For a 1 gallon batch:
 - 1/4 teaspoon Fenugreek
 - 1/4 tsp wine tannin
 - Mangrove Jack M02 cider yeast
+- Fermaid O
 
 Post fermentation:
 - 1/4 tsp citric acid
